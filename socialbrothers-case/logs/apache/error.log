@@ -1,0 +1,26 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 11 16:12:22.135754 2023] [mpm_winnt:notice] [pid 1408:tid 876] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Dec 11 16:12:22.136756 2023] [mpm_winnt:notice] [pid 1408:tid 876] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Dec 11 16:12:22.136756 2023] [core:notice] [pid 1408:tid 876] AH00094: Command line: 'C:\\Users\\Dave\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/Dave/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\Dave\\AppData\\Roaming\\Local\\run\\5zsiK-UlK\\conf\\apache\\apache2.conf'
+[Mon Dec 11 16:12:22.140759 2023] [mpm_winnt:notice] [pid 1408:tid 876] AH00418: Parent: Created child process 14332
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 11 16:12:22.562225 2023] [mpm_winnt:notice] [pid 14332:tid 868] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 13 13:33:02.004141 2023] [core:warn] [pid 7116:tid 564] AH00098: pid file C:/Users/Dave/AppData/Roaming/Local/run/5zsiK-UlK/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 13 13:33:02.006144 2023] [mpm_winnt:notice] [pid 7116:tid 564] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Dec 13 13:33:02.007144 2023] [mpm_winnt:notice] [pid 7116:tid 564] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Dec 13 13:33:02.007144 2023] [core:notice] [pid 7116:tid 564] AH00094: Command line: 'C:\\Users\\Dave\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/Dave/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\Dave\\AppData\\Roaming\\Local\\run\\5zsiK-UlK\\conf\\apache\\apache2.conf'
+[Wed Dec 13 13:33:02.010281 2023] [mpm_winnt:notice] [pid 7116:tid 564] AH00418: Parent: Created child process 23916
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 13 13:33:02.414172 2023] [mpm_winnt:notice] [pid 23916:tid 852] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 13 21:48:15.608278 2023] [core:warn] [pid 26288:tid 480] AH00098: pid file C:/Users/Dave/AppData/Roaming/Local/run/5zsiK-UlK/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 13 21:48:15.610280 2023] [mpm_winnt:notice] [pid 26288:tid 480] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Dec 13 21:48:15.610280 2023] [mpm_winnt:notice] [pid 26288:tid 480] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Dec 13 21:48:15.610280 2023] [core:notice] [pid 26288:tid 480] AH00094: Command line: 'C:\\Users\\Dave\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/Dave/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\Dave\\AppData\\Roaming\\Local\\run\\5zsiK-UlK\\conf\\apache\\apache2.conf'
+[Wed Dec 13 21:48:15.613283 2023] [mpm_winnt:notice] [pid 26288:tid 480] AH00418: Parent: Created child process 8504
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::2c39:7e80:5d37:fff7. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 13 21:48:16.005640 2023] [mpm_winnt:notice] [pid 8504:tid 876] AH00354: Child: Starting 64 worker threads.

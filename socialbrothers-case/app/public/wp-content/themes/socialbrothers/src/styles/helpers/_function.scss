@@ -1,0 +1,37 @@
+// Returns a color from the $colors-map based on the supplied key
+@function color($key) {
+    @if map-has-key($colors, $key) {
+        @return map-get($colors, $key);
+    }
+
+        @warn "Unknown `#{$key}` in $colors";
+        @return null;
+}
+
+// Returns a color from the $darkmode-map based on the supplied key
+@function dark($key) {
+    @if map-has-key($darkmode, $key) {
+        @return map-get($darkmode, $key);
+    }
+
+    @warn "Unknown `#{$key}` in $darkmode";
+    @return null;
+}
+
+@function font($key) {
+    @if map-has-key($fonts, $key) {
+        @return map-get($fonts, $key);
+    }
+
+    @warn "Unknown `#{$key}` in $fonts";
+    @return null;
+}
+
+@function mesurement($key) {
+    @if map-has-key($mesurements, $key) {
+        @return map-get($mesurements, $key);
+    }
+
+    @warn "Unknown `#{$key}` in $mesurements";
+    @return null;
+}

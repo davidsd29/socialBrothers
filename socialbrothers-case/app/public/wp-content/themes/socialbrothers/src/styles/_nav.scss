@@ -1,0 +1,28 @@
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .menu-container {
+        display: flex;
+        align-items: center;
+        
+        ul {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            flex-wrap: wrap;
+
+            li {
+                display: block;
+                padding: 10px;
+                min-width: 48px;
+                line-height: 3.5em;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
+        }
+    }
+
+}
